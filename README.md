@@ -10,6 +10,12 @@
 mohamedabouennasr/mohamedabouennasr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css)](https://skillicons.dev)
 
 [![IDE](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+
+<p align="center">
+  <h3>Programming Languages</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
+  </a>
+</p>
