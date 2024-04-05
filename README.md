@@ -11,3 +11,5 @@ mohamedabouennasr/mohamedabouennasr is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css)](https://skillicons.dev)
+
+[![IDE](https://skillicons.dev/icons?i=visualstudio,vs)](https://skillicons.dev)
