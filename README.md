@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohamed!
+# &#x1F44B; Hi, I’m Mohamed!
 
 ### Programming Languages
 
